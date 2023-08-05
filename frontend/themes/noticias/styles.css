@@ -1,0 +1,18 @@
+@import url('./views/vista-noticias-view.css');
+@import url('./views/vista-login-view.css');
+@import url('./views/vista-logueado-view.css');
+@import url('./views/vista-nologueado-view.css');
+@import url('./views/vista-noticiasitem-view.css');
+@import url('./views/vista-publicarnoticia-view.css');
+@import url('./views/vista-veractividad-view.css');
+@import url('./views/vista-veractividaditem-view.css');
+@import url('./views/vista-verdetalle-view.css');
+@import url('./views/vista-verdetalleitem-view.css');
+@import url('./views/vista-verregistrados-view.css');
+@import url('./views/vista-verregistradositem-view.css');
+@import url('./views/vista-buscar-view.css');    html {
+      --lumo-primary-color: hsl(239, 85%, 26%);
+      --lumo-primary-color-50pct: hsla(239, 85%, 26%, 0.5);
+      --lumo-primary-color-10pct: hsla(239, 85%, 26%, 0.1);
+
+    }
